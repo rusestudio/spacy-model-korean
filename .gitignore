@@ -8,3 +8,4 @@ train-iii/data/*.spacy
 # Large generated data
 *.dic
 matrix.def
+*.def
