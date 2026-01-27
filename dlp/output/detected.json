@@ -1,0 +1,147 @@
+[
+  {
+    "type": "REGEX",
+    "label": "PHONE_KR",
+    "value": "010-1234-5678"
+  },
+  {
+    "type": "REGEX",
+    "label": "ID_KR",
+    "value": "900101-1234567"
+  },
+  {
+    "type": "REGEX",
+    "label": "LICENSE_NUM",
+    "value": "12-34-567890-12"
+  },
+  {
+    "type": "REGEX",
+    "label": "CREDIT_CARD",
+    "value": "1234-5678-9012-3456"
+  },
+  {
+    "type": "REGEX",
+    "label": "EMAIL",
+    "value": "test.user123@example.co.kr"
+  },
+  {
+    "type": "REGEX",
+    "label": "IP_ADD",
+    "value": "192.168.0.1"
+  },
+  {
+    "type": "REGEX",
+    "label": "DOMAIN",
+    "value": "co.kr"
+  },
+  {
+    "type": "REGEX",
+    "label": "DOMAIN",
+    "value": "example.com"
+  },
+  {
+    "type": "REGEX",
+    "label": "PASSWORD",
+    "value": "user123@example"
+  },
+  {
+    "type": "REGEX",
+    "label": "PASSWORD",
+    "value": "Secure@Pass1234"
+  },
+  {
+    "type": "REGEX",
+    "label": "PASSWORD",
+    "value": "M12345678"
+  },
+  {
+    "type": "REGEX",
+    "label": "PASSWORD",
+    "value": "AIzaSyCSPRaeey7"
+  },
+  {
+    "type": "REGEX",
+    "label": "PASSWORD",
+    "value": "k5foWsKeiUuqSJqIDU"
+  },
+  {
+    "type": "REGEX",
+    "label": "MONEY",
+    "value": "100만원 "
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "900101-1234567"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "010-1234-5678"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "82 10 9876 5432"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "1234-5678-9012"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "3456"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "110-23-456789"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "192.168.0.1"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "12-34-567890"
+  },
+  {
+    "type": "REGEX",
+    "label": "ACC_NUM",
+    "value": "900101-123456"
+  },
+  {
+    "type": "REGEX",
+    "label": "ACC_NUM",
+    "value": "010-1234-5678"
+  },
+  {
+    "type": "REGEX",
+    "label": "ACC_NUM",
+    "value": "1234-5678-9012"
+  },
+  {
+    "type": "REGEX",
+    "label": "ACC_NUM",
+    "value": "110-23-456789"
+  },
+  {
+    "type": "REGEX",
+    "label": "ACC_NUM",
+    "value": "12-34-567890"
+  },
+  {
+    "type": "NER",
+    "label": "PS",
+    "value": "김민수"
+  },
+  {
+    "type": "NER",
+    "label": "PS",
+    "value": "ample.com"
+  }
+]
