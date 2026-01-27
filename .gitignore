@@ -1,0 +1,10 @@
+# MeCab build & dictionaries
+mecab_build/
+
+# spaCy training outputs
+train-iii/output/
+train-iii/data/*.spacy
+
+# Large generated data
+*.dic
+matrix.def
