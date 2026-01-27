@@ -1,5 +1,6 @@
 # MeCab build & dictionaries
 mecab_build/
+mecab_build/mecab-ko-dic-2.1.1-20180720/matrix.def
 
 # spaCy training outputs
 train-iii/output/
