@@ -16,7 +16,7 @@ def mask_text(text: str, targets):
 # test main
 if __name__ == "__main__":
 
-    input_data = read_json("input.json")
+    input_data = read_json("in.json") #pii data only 
     text = input_data["text"]
 
     print("Original text:")
@@ -33,12 +33,12 @@ if __name__ == "__main__":
     print("Masked text:")
     print(masked)
 
-    write_json("output/detected.json", all_targets)
-    write_json("output/masked.json", {
+    write_json("output/detected2.json", all_targets)
+    write_json("output/masked2.json", {
         "masked_text": masked
     })
 
-    write_json("output/result.json", {
+    write_json("output/result2.json", {
         "original_text": text,
         "masked_text": masked,
         "detected": all_targets

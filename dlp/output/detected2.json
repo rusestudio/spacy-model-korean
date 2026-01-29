@@ -1,0 +1,682 @@
+[
+  {
+    "type": "REGEX",
+    "label": "MONEY",
+    "value": "300원 "
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "2024"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "6000"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "2024"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "5000"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "2025"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "6800"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "2024"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "6500"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "2025"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "2024"
+  },
+  {
+    "type": "REGEX",
+    "label": "PHONE_INTL",
+    "value": "2025"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "헤럴드 경제"
+  },
+  {
+    "type": "NER",
+    "label": "PS",
+    "value": "권제인"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "기아"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "지난해"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "114 조 1409 억 원"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "28"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "313 만 5873"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "28.3 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "9 조 781 억 원"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "4 분기"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "28 조 877 억 원"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "1 조 8425 억 원"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "3.5 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "4 분기"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "32.2 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "76 만 3200 대"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "0.9 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "2 조 1110 억 원"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "기아"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "4 분기"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "기아"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "올해 연간"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "6.8 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "335 만 대"
+  },
+  {
+    "type": "NER",
+    "label": "PS",
+    "value": "제시"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "122 조 3000 억 원"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "7.2 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "10 조 2000 억 원"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "8.3 %"
+  },
+  {
+    "type": "NER",
+    "label": "PS",
+    "value": "제시"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "기아"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "지난해 4 분기"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "13 만 3097 대"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "63 만 103 대"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "0.9 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "76 만 3200 대"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "5.6 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "0.2 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "2024 년 4 분기"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "6000 여 대"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "0.9 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "3.5 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "28 조 877 억 원"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "지난해 11 월 1 일"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "15 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "두 달"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "25 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "32.2 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "1 조 8425 억 원"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "2.9 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "81.7 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "0.6 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "11.8 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "4 분기"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "13.2 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "18 만 6000 대"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "12 만 1000 대"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "2024 년 4 분기"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "10 만 대"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "21.3 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "세 를"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "1 만 6000 대"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "5000 대"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "4 분기"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "23.9 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "21.5 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "2.4 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "42.3 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "0.3 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "22.5 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "3.2 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "49.8 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "9.7 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "2025 년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "74 만 9000 대"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "17.4 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "45 만 4000 대"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "전년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "23.7 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "5 만 7000 대"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "19.4 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "23 만 8000 대"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "18.9 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "지난해"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "2.8 %"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "24.2 %"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "기아"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "올해"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "기아"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "올해"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "셀토스"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "연초"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "2"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "3"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "4"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "5"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "기아"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "올해"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "기아"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "올해"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "6800 원"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "2024 년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "6500 원"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "300 원"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "2025 년"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "2024 년 33.4 %"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "2025 년"
+  },
+  {
+    "type": "NER",
+    "label": "QT",
+    "value": "35 %"
+  },
+  {
+    "type": "NER",
+    "label": "OG",
+    "value": "기아"
+  },
+  {
+    "type": "NER",
+    "label": "DT",
+    "value": "올해 4 월"
+  }
+]

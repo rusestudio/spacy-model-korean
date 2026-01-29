@@ -1,16 +1,7 @@
 [
   [
     "김민수 매니저가 담당하는 베타는 내부 민감 프로젝트이다.",
-    {
-      "entities": [
-        [
-          14,
-          16,
-          "PROJECT_NAME"
-        ],
-        [
-          0,
-          3,
+    {"entities": [   [14,16,"PROJECT_NAME" ],[0,3,
           "PROJECT_MANAGER"
         ]
       ]

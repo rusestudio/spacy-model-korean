@@ -18,7 +18,8 @@ def get_ner(text):
 
     results = []
     for ent in doc.ents:
-        if ent.label_ in {"PS", "OG", "MONEY", "CARDINAL", "QUANTITY", "PERCENT"}:
+        if ent.label_ in {"PS", "OG", "MONEY", "CARDINAL", "QUANTITY", "PERCENT"
+                         "LC", "OG", "QT", "TI", "DT", "PS", "MA", "AD", "NU"}:
             results.append({
                 "type": "NER",
                 "label": ent.label_,
